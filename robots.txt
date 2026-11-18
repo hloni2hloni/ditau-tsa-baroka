@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hloni2hloni.github.io/bravo-boys-academy/sitemap.xml
+Sitemap: https://hloni2hloni.github.io/ditau-tsa-baroka/sitemap.xml
